@@ -1,0 +1,6 @@
+.photo_profil{
+height: 80px;
+width: 80px;
+border-radius: 50%;
+box-shadow: inset 40px 40px 40px rgba(0,0,0,0.4);
+}
