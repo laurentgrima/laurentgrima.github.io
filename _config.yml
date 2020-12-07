@@ -22,8 +22,8 @@ title: Laurent Grima Portfolio
 email: grima.laurent@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
  Laurent Grima : entomologie, naturaliste, cartographie, SIG
-baseurl: "laurentgrima" # the subpath of your site, e.g. /blog
-url: "https://laurentgrima.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: laurent_grima
 github_username:  laurentgrima
 
